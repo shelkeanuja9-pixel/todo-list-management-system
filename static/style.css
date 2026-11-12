@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: lightblue;
+    padding: 20px;
+}
+
+h1 {
+    color: darkblue;
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: navy;
+}
+
+input {
+    padding: 10px;
+    width: 220px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.task {
+    background-color: white;
+    padding: 15px;
+    margin: 15px auto;
+    width: 300px;
+    border-radius: 10px;
+}
+
+a {
+    color: red;
+    margin: 10px;
+    text-decoration: none;
+}
